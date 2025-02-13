@@ -1,2 +1,2 @@
 # XR-anatomy
-3D Organon XR Anatomy repository for Oculus Quest
+3D Organon XR repository for Oculus Quest
